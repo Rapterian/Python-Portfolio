@@ -1,4 +1,6 @@
 **Python Quiz Program**
+
+
 This Python program is a simple quiz game that tests the user's knowledge of computer concepts through multiple-choice questions. It's designed for beginners who are learning Python and want to practice their skills while reinforcing their understanding of fundamental computer concepts.
 
 *Features:*
