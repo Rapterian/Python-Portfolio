@@ -63,4 +63,4 @@ else:
 
 
 print("You got "+str(score)+" out of the 4 questions right!")
-print("That is a score of "+str(score/4*100))
+print("That is a score of "+str(score/4*100)+"%")
