@@ -19,3 +19,27 @@ This Python program is a simple quiz game that tests the user's knowledge of com
 - Run the quiz.py file using Python.
 - Answer the questions presented on the screen by entering the corresponding letter for your choice.
 - Receive immediate feedback on whether your answer is correct or incorrect.
+
+
+Certainly! Here's the README for your guessing game program in the requested format:
+
+---
+
+# Number Guessing Game
+
+This Python program is a number guessing game where the user tries to guess a randomly chosen number within a specified range. It's a fun way to practice Python basics and improve your programming skills.
+
+*Features:*
+
+- Random number generation: The program generates a random number within a user-specified range.
+- User input validation: Validates user input to ensure it's a valid number.
+- Feedback: Provides feedback to the user on whether their guess is too high or too low.
+- Game statistics: Displays the number of guesses it took the user to guess the correct number and the total number of possible answers.
+
+*How to Play:*
+
+- Clone the repository to your local machine.
+- Run the `number_guessing_game.py` file using Python.
+- Enter the range of numbers within which the random number will be chosen.
+- Start guessing numbers until you guess the correct one.
+- Receive feedback on each guess and find out how many guesses it took you to win.
