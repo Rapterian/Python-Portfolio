@@ -41,5 +41,5 @@ Try guessing higher:"))
 possibilities=top_of_range-bottom_of_range+1
 
 print("That is correct :)\n\
-It took you ",number_of_guesses," tries and there were ",possibilities," possible answers!")
+It took you",number_of_guesses,"tries and there were ",possibilities," possible answers!")
 
