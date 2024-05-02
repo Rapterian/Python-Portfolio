@@ -68,3 +68,43 @@ This is a simple Rock Paper Scissors game implemented in Python.
 - Python 3.x
 - No additional libraries required
 
+---
+
+# Password Encryptor
+
+Password Encryptor is a simple password manager script written in Python. It allows you to securely store and manage your passwords.
+
+## Features
+
+- Add new passwords securely.
+- View existing passwords.
+
+## Getting Started
+
+1. **Prerequisites**: Ensure you have Python installed on your system. You also need to install the `cryptography` library, which you can do using pip:
+
+    ```
+    pip install cryptography
+    ```
+
+2. **Clone the Repository**: Clone this repository to your local machine.
+
+3. **Run the Script**: Run the `password_encryptor.py` script using Python:
+
+    ```
+    python password_encryptor.py
+    ```
+
+4. **Follow the On-Screen Instructions**: You can add new passwords or view existing ones by following the prompts.
+
+## Security
+
+- Passwords are encrypted using the Fernet symmetric encryption scheme provided by the `cryptography` library.
+- Encryption keys are stored securely on the local machine.
+
+## File Structure
+
+- `password_encryptor.py`: Main Python script containing the password manager functionality.
+- `key.key`: File containing the encryption key. Automatically generated if not present.
+- `passwords.txt`: File containing encrypted passwords.
+
