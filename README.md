@@ -43,3 +43,28 @@ This Python program is a number guessing game where the user tries to guess a ra
 - Enter the range of numbers within which the random number will be chosen.
 - Start guessing numbers until you guess the correct one.
 - Receive feedback on each guess and find out how many guesses it took you to win.
+
+---
+
+# Rock Paper Scissors Game
+
+This is a simple Rock Paper Scissors game implemented in Python.
+
+## How to Use
+
+1. Run the Python script `rock_paper_scissors.py`.
+2. Follow the on-screen instructions.
+3. Type "rock", "paper", or "scissors" to play against the computer.
+4. Type "Q" to quit the game.
+
+## Rules
+
+- Rock beats scissors.
+- Scissors beat paper.
+- Paper beats rock.
+
+## Requirements
+
+- Python 3.x
+- No additional libraries required
+
